@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- ⚡ Fun fact: I like cats.
+- 📫 How to reach me: [here](https://joshaprior.dev/) or [directly](https://joshaprior.dev/contact/)
+- 🦆 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
 <!--
 **joshaprior/joshaprior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
