@@ -5,6 +5,8 @@
 - 📫 How to reach me: [here](https://joshaprior.dev/) or [directly](https://joshaprior.dev/contact/)
 - 🦆 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
+![I like cats](https://github.githubassets.com/images/mona-whisper.gif)
+
 <!--
 **joshaprior/joshaprior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
