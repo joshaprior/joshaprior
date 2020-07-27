@@ -4,6 +4,7 @@
 - ⚡ Fun fact: I like cats.
 - 📫 How to reach me: [here](https://joshaprior.dev/) or [directly](https://joshaprior.dev/contact/)
 - 🦆 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+- 🦠 I am diagnosed with human.
 
 ![I like cats](https://github.githubassets.com/images/mona-whisper.gif)
 
